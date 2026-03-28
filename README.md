@@ -119,7 +119,7 @@ This makes it highly effective for real-world credit risk prediction.
 
 * Python
 * Pandas, NumPy
-* Scikit-learn
+* Scikit learn
 * Matplotlib, Seaborn
 
 
